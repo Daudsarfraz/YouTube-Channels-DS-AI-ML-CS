@@ -4,17 +4,6 @@
 
 A comprehensive list of +180 YouTube Channels (in no particular order) for Data Science, Data Engineering, Machine Learning, Deep Learning, Artificial Intelligence, Computer Science, programming, software engineering, and more!
 
-Feel free to submit [pull requests](https://github.com/benthecoder/yt-channels-DS-AI-ML/pulls) to add on more channels to this list!
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/benedictneo/).
-
-I have a [blog](https://benedictxneo.medium.com/) where I write about Data Science and share open-source tools. You can find all my articles [here](https://benedictxneo.medium.com/all-my-articles-and-series-b4b454a1435d).
-
-Check out my other lists:
-
-- [Data Science resources for R](https://github.com/benthecoder/JohnHopkinsDataScience/blob/main/resources.md)
-- [ml-blogs-that-are-worth-reading](https://github.com/benthecoder/ml-blogs-that-are-worth-reading)
-
 Table of Contents
 
 - [Awesome YouTube Channels](#awesome-youtube-channels)
