@@ -1,7 +1,5 @@
 # Awesome YouTube Channels
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 A comprehensive list of +180 YouTube Channels (in no particular order) for Data Science, Data Engineering, Machine Learning, Deep Learning, Artificial Intelligence, Computer Science, programming, software engineering, and more!
 
 Table of Contents
